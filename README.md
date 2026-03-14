@@ -1,6 +1,6 @@
 # 👩‍💻 Shaik Salma
 
-**Aspiring AI/ML Engineer | Generative AI | Python | Machine Learning | Data Structures**
+**Aspiring AI/ML Engineer | Generative AI | Python | Machine Learning | Data Science**
 
 Welcome to my GitHub profile! 🚀  
 This repository serves as my **resume-style README**, highlighting my skills, projects, internships, and learning journey in **Artificial Intelligence, Machine Learning, and Data Science**.
